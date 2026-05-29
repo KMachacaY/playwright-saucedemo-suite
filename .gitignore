@@ -1,0 +1,18 @@
+
+# Node dependencies
+node_modules/
+
+# Test results and local reports
+test-results/
+playwright-report/
+blob-report/
+
+# Playwright cache and local storage
+.playwright/
+.auth/
+
+# Manual screenshots and local evidence
+screenshots/
+
+# Environment files with sensitive credentials
+.env
